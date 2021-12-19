@@ -9,7 +9,7 @@
 
 **The Files providing the solution to the Python Challenge are the following.
 **1.	"pymaceuticals_mm" contains the Python / Pandas code for the Matplotlib challenge.
-**2.	" pymaceuticals_mm” also contains the findings of the observable trends of the data.
+**2.	"pymaceuticals_mm” also contains the findings of the observable trends of the data.
 
 ##Observations and Insights
 
