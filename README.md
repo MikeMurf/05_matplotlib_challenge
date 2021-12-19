@@ -1,5 +1,5 @@
 
-###The brief for this assignment was as follows.
+##The brief for this assignment was as follows.
 
 **“While your data companions rushed off to jobs in finance and government, you remained adamant that science was the way for you. Staying true to your mission, you've joined Pymaceuticals Inc., a burgeoning pharmaceutical company based out of San Diego. Pymaceuticals specializes in anti-cancer pharmaceuticals. In its most recent efforts, it began screening for potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
@@ -11,7 +11,7 @@
 **1.	"pymaceuticals_mm" contains the Python / Pandas code for the Matplotlib challenge.
 **2.	" pymaceuticals_mm” also contains the findings of the observable trends of the data.
 
-###Observations and Insights
+##Observations and Insights
 
 **1. Capomulin was effective in reducing tumor volume during the course of the study and is a viable potential drug  regimen.
 **2. The Pearson’s Coefficient of Correlation, the r value, for the correlation between mouse weight and tumour volume is 0.84 [refer – “The Average Tumour Volume mm3” graph].        An r value greater than 0.7 indicates a strong statistical correlation. This means that there is a strong likelihood that a mouse’s weight is contributing to the efficacy        of all drug regimens. The heavier the mouse, then the more efficacious the drug regimen.
